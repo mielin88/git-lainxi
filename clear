@@ -1,0 +1,54 @@
+[33mcommit 0d2fb327165aa1eacf0948145f3277a7b5e5780f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: e4dede3 39fb64f
+Author: jimeilin <ji_ml@centit.com>
+Date:   Wed Nov 11 14:28:08 2020 +0800
+
+    confilct fixed
+
+[33mcommit e4dede36b53b91e9cdbc81917cc72204bc0aa62c[m
+Author: jimeilin <ji_ml@centit.com>
+Date:   Wed Nov 11 14:24:11 2020 +0800
+
+    在main分支上添加内容9999999999999
+
+[33mcommit 39fb64fd7361b88ad4f6964a9a4304154786e184[m[33m ([m[1;32mfengzhi01[m[33m)[m
+Author: jimeilin <ji_ml@centit.com>
+Date:   Wed Nov 11 14:21:54 2020 +0800
+
+    添加内容8888888
+
+[33mcommit 88538bc66b8876b5142526561fd2ce9e227f3956[m
+Author: jimeilin <ji_ml@centit.com>
+Date:   Wed Nov 11 14:17:02 2020 +0800
+
+    dev分支上增加内容7777777777777777
+
+[33mcommit 3faa5eade7b7bf22d3990c64dbdff8c19055d971[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: jimeilin <ji_ml@centit.com>
+Date:   Wed Nov 11 13:43:29 2020 +0800
+
+    添加b.txt文件
+
+[33mcommit 18b744584f4565358414bb4ecbadb0925a916f54[m
+Author: jimeilin <ji_ml@centit.com>
+Date:   Wed Nov 11 13:35:03 2020 +0800
+
+    一次性提交所有文件包含test.txt
+
+[33mcommit d67fc44d6a9926318d283da7c455260ded8d237f[m
+Author: jimeilin <ji_ml@centit.com>
+Date:   Wed Nov 11 11:24:44 2020 +0800
+
+    readme.txt第三次增加333333333333
+
+[33mcommit 0ff9e29df8f934c01eb27468b639658a9e1dcca3[m
+Author: jimeilin <ji_ml@centit.com>
+Date:   Wed Nov 11 11:20:20 2020 +0800
+
+    readme.txt文件增加2222222222内容
+
+[33mcommit fda7b7094ff03a9fe877f367b1df7ca004645482[m
+Author: jimeilin <ji_ml@centit.com>
+Date:   Wed Nov 11 11:14:59 2020 +0800
+
+    readme.text提交
